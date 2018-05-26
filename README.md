@@ -1,2 +1,2 @@
-#Hyperdroid - Benchmark Application
+Hyperdroid - Benchmark Application
 
